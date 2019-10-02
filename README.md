@@ -47,6 +47,9 @@
 * Continuidade dos testes envolvendo a comunicação Arduino <-> Desktop
 
 ## Oitavo Encontro - 18/09/2019
+* Finalização do programa necessário para controle do Arduíno pelo Desktop
+* A seguir códidos desenvolvidos pelo acadêmico Matheus Gonçalves Stigger
+
 ``` 
 #Programa Arduino
 const int led=12;
@@ -113,7 +116,7 @@ void loop(){
 
 
 ``` 
-#Programa Python
+#Programa Python - Desktop
 import serial                                 # add Serial library for Serial c$
 
 Arduino_Serial = serial.Serial('/dev/ttyACM0',9600)  #Create Serial port object$
@@ -161,7 +164,7 @@ while 1:                                      #infinite loop
         print ("LED OFF")
 ``` 
 
-## Informações
+## Informações Refentes à Disciplina
 
 **Professores do Segundo Semestre de 2019:**
 * Matemática Aplicada - Marilia
