@@ -170,8 +170,8 @@ while 1:                                      #infinite loop
 
 ``` 
 from random import randint
-import matplotlib.pyplot as plt
-import matplotlib.animation as animation
+import matplotlib.pyplot as plt #sudo apt install python3-matplotlib
+import matplotlib.animation as animation #sudo apt install python3-tk
 
 
 
