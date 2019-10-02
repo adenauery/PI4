@@ -48,7 +48,7 @@
 
 ## Oitavo Encontro - 18/09/2019
 * Finalização do programa necessário para controle do Arduíno pelo Desktop
-* A seguir códidos desenvolvidos pelo acadêmico Matheus Gonçalves Stigger
+* A seguir códidos desenvolvidos pelo acadêmico Matheus Gonçalves Stigger. O objetivo destes códigos é controle de acendimento de três leds por parte do Desktop. Os leds tem seu acionamento feito pela plataforma Arduino.
 
 ``` 
 #Programa Arduino
