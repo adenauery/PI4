@@ -213,6 +213,31 @@ def animate(i, xs, ys):
 ani = animation.FuncAnimation(fig, animate, fargs=(xs, ys), interval=1000)
 plt.show()
 ``` 
+## Décimo Encontro - 09/10/2019
+
+Gerando gráficos com Python
+
+``` 
+# Pagina de exemplos
+# https://matplotlib.org/1.3.1/examples/index.html
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+
+x0 = np.linspace(0, 10)
+y0 = np.sin(x0)
+y0 = np.multiply(y0,100);
+line0, = plt.plot(x0, y0, '-', linewidth=2)
+
+x1 = np.linspace(0,10)
+y1 = np.power(x1,2)
+line1, = plt.plot(x1, y1, '-', linewidth=2)
+
+plt.show()
+``` 
+
+
 
 ## Informações Refentes à Disciplina
 
