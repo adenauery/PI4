@@ -165,7 +165,7 @@ while 1:                                      #infinite loop
 ``` 
 ## Nono Encontro - 02/10/2019
 
-* Gerando gráficos no Desktop a partir de informações coletas pelo Arduino
+# Gerando gráficos no Desktop a partir de informações coletas pelo Arduino
 
 
 ``` 
@@ -215,11 +215,13 @@ plt.show()
 ``` 
 ## Décimo Encontro - 09/10/2019
 
-Gerando gráficos com Python
+# #Gerando gráficos no Desktop a partir de informações coletas pelo Arduino (continuação)
 
 ``` 
 # Pagina de exemplos
 # https://matplotlib.org/1.3.1/examples/index.html
+# Exemplo do base do programa
+# https://matplotlib.org/1.3.1/examples/lines_bars_and_markers/line_demo_dash_control.html
 
 import numpy as np
 import matplotlib.pyplot as plt
