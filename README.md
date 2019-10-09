@@ -215,7 +215,9 @@ plt.show()
 ``` 
 ## Décimo Encontro - 09/10/2019
 
-# #Gerando gráficos no Desktop a partir de informações coletas pelo Arduino (continuação)
+# Gerando gráficos no Desktop a partir de informações coletas pelo Arduino (continuação)
+
+Abaixo código desenvolvido pelo colega Miguel Gut Seara a partir dos exemplos disponíveis na página de exemplos da bilbioteca Matplotlib. As URL para acesso a versão da bilbioteca instalada nos equipamentos dos laboratórios estão comentadas no código
 
 ``` 
 # Pagina de exemplos
