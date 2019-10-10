@@ -217,7 +217,9 @@ plt.show()
 
 ### Gerando gráficos no Desktop a partir de informações coletas pelo Arduino (continuação)
 
-Abaixo código desenvolvido pelo colega Miguel Gut Seara a partir dos exemplos disponíveis na página de exemplos da bilbioteca Matplotlib. As URL para acesso a versão da bilbioteca instalada nos equipamentos dos laboratórios estão comentadas no código
+Abaixo código desenvolvido pelo colega Miguel Gut Seara a partir dos exemplos disponíveis na página da bilbioteca Matplotlib. As URL para acesso a versão da bilbioteca instalada nos equipamentos dos laboratórios estão comentadas no início do código.
+
+Este código gera dois gráficos: (1) potência de dois e (ii) seno
 
 ``` 
 # Pagina de exemplos
