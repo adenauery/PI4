@@ -242,6 +242,56 @@ line1, = plt.plot(x1, y1, '-', linewidth=2)
 
 plt.show()
 ``` 
+## Décimo Primeiro Encontro
+
+### Gerando gráficos animados no Desktop a partir de informações coletas pelo Arduino (Osciloscópio)
+
+Abaixo código desenvolvido pelo colega Ícaro Gonçalves Siqueira que permite o desenvolvimento de um osciloscópio. As bibliotecas necessárias para desenvolvimento do código estão comentadas no fonte do programa.
+
+``` 
+import matplotlib.pyplot as plt #sudo apt install python3-matplotlib
+import matplotlib.animation as animation #sudo apt install python3-tk
+import numpy as np
+
+#fig = plt.figure()
+#ax = fig.add_subplot(1,1,1)
+fig, ax = plt.subplots()
+
+#valores iniciais
+xs = [0]
+ys = [0]
+tempo=0
+
+#funcao para animar
+def animate(i, xs, ys):
+global tempo
+tempo = tempo + 1
+
+#recebe o valor da serial
+volt= np.sin(tempo)
+
+#incremento do novo valor
+xs.append(tempo)
+ys.append(volt)
+
+#mantem grafico dentro do intervalo de 100 plots
+if tempo > 100:
+xs = xs[tempo-99:tempo]
+ys = ys[tempo-99:tempo]
+
+ax.clear()
+# desenhar x e y
+ax.plot(xs, ys)
+
+plt.title('Medidor de Tensao')
+plt.ylabel('Volts')
+plt.xlabel('Tempo')
+
+# altere o valor do interval para que que o frame seja atualizado de maneira mais rapida ou nao
+ani = animation.FuncAnimation(fig, animate, fargs=(xs, ys), interval=100)
+plt.show()
+``` 
+
 
 
 
