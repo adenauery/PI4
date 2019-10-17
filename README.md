@@ -292,7 +292,7 @@ ani = animation.FuncAnimation(fig, animate, fargs=(xs, ys), interval=100)
 plt.show()
 ``` 
 
-
+No [repositório do Miguel Gut Seara](https://github.com/miguelgut/teste-repositorio/tree/master/aula12) estão em construção códigos para o Desktop (Python) e Arduino (C Wiring) para troca de dados entre as plataformas.
 
 
 ## Informações Refentes à Disciplina
