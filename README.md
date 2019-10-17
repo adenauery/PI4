@@ -248,6 +248,8 @@ plt.show()
 
 Abaixo código desenvolvido pelo colega Ícaro Gonçalves Siqueira que permite o desenvolvimento de um osciloscópio. As bibliotecas necessárias para desenvolvimento do código estão comentadas no fonte do programa.
 
+No [repositório do Miguel Gut Seara](https://github.com/miguelgut/teste-repositorio/tree/master/aula12) estão em construção códigos para o Desktop (Python) e Arduino (C Wiring) para troca de dados entre as plataformas.
+
 ``` 
 import matplotlib.pyplot as plt #sudo apt install python3-matplotlib
 import matplotlib.animation as animation #sudo apt install python3-tk
@@ -291,8 +293,6 @@ def animate(i, xs, ys):
 ani = animation.FuncAnimation(fig, animate, fargs=(xs, ys), interval=100)
 plt.show()
 ``` 
-
-No [repositório do Miguel Gut Seara](https://github.com/miguelgut/teste-repositorio/tree/master/aula12) estão em construção códigos para o Desktop (Python) e Arduino (C Wiring) para troca de dados entre as plataformas.
 
 
 ## Informações Refentes à Disciplina
