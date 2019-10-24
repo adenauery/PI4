@@ -297,6 +297,8 @@ plt.show()
 
 Avanço dos cógidos para Desktop e Arduino organizado pelo acadêmico Ícaro Gonçalves Siqueira. Estes códigos podem ser acessados neste link: http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=codigos_arduino_e_python_projeto_osciloscopio.zip
 
+Planejamento das atividades a serem desenvolvidas junto as disciplinas em andamento no semestre.
+
 
 ## Informações Refentes à Disciplina
 
