@@ -310,10 +310,13 @@ Planejamento das atividades a serem desenvolvidas junto as disciplinas em andame
 
 **Como exemplos de fenômenos físicos a serem registrados temos:**
 
- * Registro da variação da intensidade luminosa de um led controlado por PWM (Gabriel)
+ * Registro da variação da intensidade luminosa de um led controlado por PWM, utilizando um LDR e exibição gráfica dos resultados (Gabriel)
+
  * Otimização do software para exibição de resultados textuais e gráficos em um Desktop a partir de dados coletados pelo Arduino (Icaro)
+ 
  * Exibição das formas de onda produzidas por um Gerador de Sinais no Desktop a partir de dados coletados pelo Arduino (Matheus)
- * 
+
+* Exibição a curva de carga e descarga de capacitadores, utilizando o Arduino para medir a tensão sobre os capacitores, e software de exibição gráfica do Desktop para mostrar as curvas (Helena)
 
 
 
