@@ -308,9 +308,12 @@ Planejamento das atividades a serem desenvolvidas junto as disciplinas em andame
  * A exibição de resultados poderá ser textual e/ou gráfica
  * O fenômeno físico a ser observado poderá ter estímulos externos, tendo assim sua variação acelerada
 
-Como exemplos de fenômenos físicos temos:
- * Variação da intensidade luminosa (Gabriel)
- * Otimização do software para exibição de resultados textuais e gráficos no Desktop (Icaro)
+**Como exemplos de fenômenos físicos a serem registrados temos:**
+
+ * Registro da variação da intensidade luminosa de um led controlado por PWM (Gabriel)
+ * Otimização do software para exibição de resultados textuais e gráficos em um Desktop a partir de dados coletados pelo Arduino (Icaro)
+ * Exibição das formas de onda produzidas por um Gerador de Sinais no Desktop a partir de dados coletados pelo Arduino (Matheus)
+ * 
 
 
 
