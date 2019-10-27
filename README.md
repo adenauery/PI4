@@ -316,7 +316,7 @@ Planejamento das atividades a serem desenvolvidas junto as disciplinas em andame
  
  * Exibição das formas de onda produzidas por um Gerador de Sinais no Desktop a partir de dados coletados pelo Arduino (Matheus)
 
-* Exibição a curva de carga e descarga de capacitadores, utilizando o Arduino para medir a tensão sobre os capacitores, e software de exibição gráfica do Desktop para mostrar as curvas (Helena)
+* Exibição a curva de carga e descarga de capacitores, utilizando o Arduino para medir a tensão sobre os capacitores, e software de exibição gráfica do Desktop para mostrar as curvas (Helena)
 
 
 
