@@ -299,6 +299,21 @@ Avanço dos cógidos para Desktop e Arduino organizado pelo acadêmico Ícaro Go
 
 Planejamento das atividades a serem desenvolvidas junto as disciplinas em andamento no semestre.
 
+### Criação de um Objeto de Aprendizagem
+
+ * Definir a disciplina do semestre em andamento para qual será criado o objeto de aprendizagem
+ * Escolher um tópico da disciplina para ser desenvolvido
+ * Este tópico preferencialmente deverá envolver tanto a Plataforma Embarcada (Arduino) como um Desktop
+ * Explorar a troca de informações entre Arduino e Desktop trabalhada no semestre
+ * A exibição de resultados poderá ser textual e/ou gráfica
+ * O fenômeno físico a ser observado poderá ter estímulos externos, tendo assim sua variação acelerada
+
+Como exemplos de fenômenos físicos temos:
+ * Variação da intensidade luminosa (Gabriel)
+ * Otimização do software para exibição de resultados textuais e gráficos no Desktop (Icaro)
+
+
+
 
 ## Informações Refentes à Disciplina
 
