@@ -318,7 +318,7 @@ Planejamento das atividades a serem desenvolvidas junto as disciplinas em andame
 
 * Exibição a curva de carga e descarga de capacitores, utilizando o Arduino para medir a tensão sobre os capacitores, e software de exibição gráfica do Desktop para mostrar as curvas (**Helena**)
 
-
+* Sistema de controle codificado envolvendo um LED emissor, e um LDR receptor. O projeto irá envolver dois Arduinos e empregando o efeito fotoelétrico será feita a transmissão dos dados (**Miguel**)
 
 
 ## Informações Refentes à Disciplina
