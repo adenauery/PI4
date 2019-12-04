@@ -1,6 +1,6 @@
 ## Equipe
 
-* Gabriel Härter Zoppo
+* Gabriel Härter Zoppo - [Reltatório](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=relatorio_projetor_iv_efeito_fotoeletrico.pdf) - [Apresentação](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=apresetacao_projetor_iv_efeito_fotoeletrico.pdf)
 * Guilherme Corrêa Carvalho
 * Helena Garcia Tavares
 * Ícaro Gonçalves Siqueira
