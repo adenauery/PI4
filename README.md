@@ -1,14 +1,6 @@
 ## Equipe
 
-*  -  - 
-* Guilherme Corrêa Carvalho
-* Helena Garcia Tavares
-* Ícaro Gonçalves Siqueira
-* Miguel Gut Seara
-* Matheus Gonçalves Stigger
-* Pedro Rosado Julio
-
-|   |   |   |
+| Nome  |   Trabalho Final   |
 |---|--:|--:|
 |Gabriel Härter Zoppo  |   [Relatório](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=relato_rio_projeto_integrador_iv_gabrielzoppo.pdf)|   [Apresentação](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=apresentacao_projeto_integrador_iv_gabrielzoppo.pdf)|
 |   |   |   |
@@ -16,6 +8,16 @@
 |   |   |   |
 |   |   |   |
 |   |   |   |
+
+
+* Guilherme Corrêa Carvalho
+* Helena Garcia Tavares
+* Ícaro Gonçalves Siqueira
+* Miguel Gut Seara
+* Matheus Gonçalves Stigger
+* Pedro Rosado Julio
+
+
 
 ## Primeiro Encontro - 07/08/2019
 
