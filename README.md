@@ -1,5 +1,5 @@
 ## Equipe
-
+|---|--:|--:|
 | Nome  |   Trabalho Final   ||
 |---|--:|--:|
 |Gabriel Härter Zoppo  |   [Relatório](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=relato_rio_projeto_integrador_iv_gabrielzoppo.pdf)|   [Apresentação](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=apresentacao_projeto_integrador_iv_gabrielzoppo.pdf)|
@@ -9,17 +9,6 @@
 |   |   |   |
 |   |   |   |
 
-
-
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
-
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
-[Prototype table]
 
 
 * Guilherme Corrêa Carvalho
