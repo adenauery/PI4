@@ -13,6 +13,12 @@
 |   |   |   |
 
 
+<table border=1 cellspacing=0 cellpadding=2 bordercolor="666633">
+<tr><td>Esta tabela</td></tr>
+<tr><td>Tem borda simples</td></tr>
+</table> 
+
+
 |   |   |   |
 |---|--:|--:|
 | Matheus Gonçalves Stigger  |   |.  |
