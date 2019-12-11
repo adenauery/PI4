@@ -13,7 +13,7 @@
 
 
 
-<TABLE cellSpacing=1 cellPadding=0 width=544 border=0>
+<TABLE cellSpacing=1 cellPadding=0 width=544 border=1>
 
 <tbody><tr style="font-family: Arial;"><td><p><font size="2"><font size="2">
 
