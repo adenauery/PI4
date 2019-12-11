@@ -12,9 +12,15 @@
 |   |   |   |
 
 
-<table border=1 cellspacing=0 cellpadding=2 bordercolor="666633">
-<tr><td>Esta tabela</td></tr>
-<tr><td>Tem borda simples</td></tr>
+<table border="1">
+<tr>
+<td>linha 1, célula 1</td>
+<td>linha 1, célula 2</td>
+</tr>
+<tr>
+<td>linha 2, célula 1</td>
+<td>linha 2, célula 2</td>
+</tr>
 </table> 
 
 
