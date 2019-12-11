@@ -4,7 +4,7 @@
 
 |   |   |   |
 |---|--:|--:|
-|<table border=1 cellspacing=0 cellpadding=2 bordercolor="666633">  **Nome** <td colspan=2 align= center>  **Trabalho Final**  |
+| **Nome** <td colspan=2 align= center>  **Trabalho Final**  |
 |Gabriel Härter Zoppo  |   [Relatório](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=relato_rio_projeto_integrador_iv_gabrielzoppo.pdf)|   [Apresentação](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=apresentacao_projeto_integrador_iv_gabrielzoppo.pdf)|
 |Ícaro Gonçalves Siqueira  | [Relatório](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=relatorio_projeto_integrador_iv_icaro_siqueira.pdf)   | [Apresentação](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=apresentacao_projeto_integrador_iv_icaro_siqueira.pdf)  |
 |   |   |   |
