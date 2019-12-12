@@ -16,7 +16,6 @@
 * Helena Garcia Tavares
 * Ícaro Gonçalves Siqueira
 * Miguel Gut Seara
-* Matheus Gonçalves Stigger
 * Pedro Rosado Julio
 
 
