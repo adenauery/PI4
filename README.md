@@ -11,11 +11,8 @@
 |   |   |   |
 |   |   |   |
 
-
-* Guilherme Corrêa Carvalho
 * Helena Garcia Tavares
-* Ícaro Gonçalves Siqueira
-* Pedro Rosado Julio
+
 
 
 
