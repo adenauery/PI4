@@ -10,7 +10,6 @@
 | Matheus Gonçalves Stigger   | [Relatório](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=relatorio_pi_iv_-_matheus_goncalves_stigger.pdf)  | [Apresentação](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=apresentacao_pi_iv_-_matheus_goncalves_stigger.pdf)  |
 | Miguel Gut Seara  | [Relatório](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=relatorio_projeto_integrador_iv_miguel_seara.pdf)  | [Apresentação](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=apresentacao_projeto_integrador_iv_miguel_seara.pdf)  |
 |   |   |   |
-|   |   |   |
 
 
 ## Primeiro Encontro - 07/08/2019
