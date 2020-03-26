@@ -12,6 +12,7 @@ Este é o repositório de trabalho da Disciplina de Projeto Integrador IV realiz
 
 
 ### Primeiro Encontro - 18/02/2020
+# Primeiro Encontro - 18/02/2020
 
 * Discussão dos objetivos
 * Explorando as funções web do GitHub 
