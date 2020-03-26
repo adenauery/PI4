@@ -39,3 +39,9 @@ Este é o repositório de trabalho da Disciplina de Projeto Integrador IV realiz
 * Programando com Python - Etapa 3 
   * Explorando laços: While
 
+## Sexto Encontro - 26/03/2020
+* Avaliando a comunicação Arduino --> Desktop - Etapa 1
+  * Arduino: fazer um programa que fique em um laço infinito lendo uma porta analógica e escrevendo na saída serial. Empregar um potenciômetro para variar a tensão na porta serial.
+  * Desktop: elaborar um programa que leia uma porta serial e escreva na tela. Executar o programa como root para ter direito a leitura e/ou escrita nas portas seriais.
+  * Como exemplo, considerar o que foi desenvolvido no [Projeto Integrador II](http://olaria.ucpel.edu.br/pi2/)
+  * [Características Técnicas do Arduino UNO](https://www.embarcados.com.br/arduino-uno/
