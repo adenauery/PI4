@@ -300,27 +300,4 @@ Avanço dos cógidos para Desktop e Arduino organizado pelo acadêmico Ícaro Go
 
 ### Encontro em 19/05/2020
 
-Planejamento das atividades a serem desenvolvidas junto as disciplinas em andamento no semestre.
-
-### Criação de um Objeto de Aprendizagem
-
- * Definir a disciplina do semestre em andamento para qual será criado o objeto de aprendizagem
- * Escolher um tópico da disciplina para ser desenvolvido
- * Este tópico preferencialmente deverá envolver tanto a Plataforma Embarcada (Arduino) como um Desktop
- * Explorar a troca de informações entre Arduino e Desktop trabalhada no semestre
- * A exibição de resultados poderá ser textual e/ou gráfica
- * O fenômeno físico a ser observado poderá ter estímulos externos, tendo assim sua variação acelerada
-
-**Como exemplos de fenômenos físicos a serem registrados temos:**
-
- * Registro da variação da intensidade luminosa de um led controlado por PWM, utilizando um LDR e exibição gráfica dos resultados
-
- * Otimização do software para exibição de resultados textuais e gráficos em um Desktop a partir de dados coletados pelo Arduino 
- 
- * Exibição das formas de onda produzidas por um Gerador de Sinais no Desktop a partir de dados coletados pelo Arduino 
-
-* Exibição a curva de carga e descarga de capacitores, utilizando o Arduino para medir a tensão sobre os capacitores, e software de exibição gráfica do Desktop para mostrar as curvas 
-
-* Sistema de controle codificado envolvendo um LED emissor, e um LDR receptor. O projeto irá envolver dois Arduinos e empregando o efeito fotoelétrico será feita a transmissão dos dados
-
-
+* Conclusão da Primeira Avaliação
