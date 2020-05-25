@@ -6,7 +6,7 @@ Este é o repositório de trabalho da Disciplina de Projeto Integrador IV realiz
 
 |   |   |   |
 |---|--:|:--|
-| **Nome** |  **Trabalho**|**Final** |
+| **Nome** |  **Primeira Avaliação**|**Segunda Avaliação** |
 |Guilherme Carvalho |
 |   |   |   |
 
