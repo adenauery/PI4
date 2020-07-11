@@ -13,9 +13,9 @@ Este é o repositório de trabalho da Disciplina de Projeto Integrador IV realiz
 
 ### Encontro em 18/02/2020
 
-* Discussão dos objetivos
+* Discussão dos objetivos do Projeto Integrador IV
 * Explorando as funções web do GitHub 
-* Python & Arduino
+* Revisando as bases para integração do Python no Desktop com a plataforma Arduino.
 
 **Metas até o próximo encontro:**
 * Criar conta no GitHub - [existem outras opções](https://pt.wikiversity.org/wiki/Github_x_Gitlab_x_Bitbucket)
@@ -26,7 +26,7 @@ Este é o repositório de trabalho da Disciplina de Projeto Integrador IV realiz
 
 ### Encontro em 03/03/2020
 * Atualização dos Sistemas Linux
-* Instalação do Git para operação console
+* Instalação de clientes Git para operação empregando o Terminal. 
 * Testes iniciais com o Git, explorando a plataforma GitHub
 
 ### Encontro em 10/03/2020
@@ -39,17 +39,17 @@ Este é o repositório de trabalho da Disciplina de Projeto Integrador IV realiz
 
 ### Quinto Encontro - 24/03/2020
 * Programando com Python - Etapa 3 
-  * Explorando laços: While
+  * Explorando laços com While e For. Revisão de programas em Python.
 
 ### Encontro em 31/03/2020
-* Avaliando a comunicação Arduino --> Desktop - Etapa 1
+* Avaliando a comunicação Arduino <--> Desktop - Etapa 1
   * Arduino: fazer um programa que fique em um laço infinito lendo uma porta analógica e escrevendo na saída serial. Empregar um potenciômetro para variar a tensão na porta analógica.
   * Desktop: elaborar um programa que leia uma porta serial e escreva na tela. Executar o programa como root para ter direito a leitura e/ou escrita nas portas seriais.
   * Como exemplo, considerar o que foi desenvolvido no [Projeto Integrador II](http://olaria.ucpel.edu.br/pi2/)
   * [Características Técnicas do Arduino UNO](https://www.embarcados.com.br/arduino-uno/)
   
 ### Encontro em 07/04/2020
-* Continuidade dos testes envolvendo a comunicação Arduino <-> Desktop
+* Continuidade dos testes envolvendo a comunicação Arduino <-> Desktop. Testes envolvendo controle a partir de ambos os lados.
 
 ### Encontro em 14/04/2020
 * Finalização do programa necessário para controle do Arduíno pelo Desktop
@@ -295,9 +295,9 @@ plt.show()
 ``` 
 
 ### Encontro em 12/05/2020
-Avanço dos cógidos para Desktop e Arduino organizado pelo acadêmico Ícaro Gonçalves Siqueira. Estes códigos podem ser acessados neste link: http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=codigos_arduino_e_python_projeto_osciloscopio.zip
+Avanço dos códigos para integração do Desktop com o Arduino, com o intuito de acelerar a captura de informações. Utilizar como base os cógidos para Desktop e Arduino organizado pelo acadêmico Ícaro Gonçalves Siqueira. Estes códigos podem ser acessados neste link: http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=codigos_arduino_e_python_projeto_osciloscopio.zip
 
 
 ### Encontro em 19/05/2020
 
-* Conclusão da Primeira Avaliação
+* Conclusão da Primeira Avaliação (1a. nota)
